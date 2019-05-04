@@ -9,7 +9,7 @@
         }
     },
     "main": "app.js",
-    "description": "Svelte/NativeScript Template Application",
+    "description": "Farhang.im Native App",
     "license": "MIT",
     "repository": "https://github.com/hmt/farhang-native",
     "dependencies": {
